@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:1313/gitjit/tech-blog/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 16:59:31 -0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Sep 2024 16:59:31 -0700</lastBuildDate><atom:link href="http://localhost:1313/gitjit/tech-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSharp</title>
-      <link>http://localhost:1313/categories/csharp/</link>
+      <link>http://localhost:1313/gitjit/tech-blog/categories/csharp/</link>
       <pubDate>Tue, 03 Sep 2024 16:59:31 -0700</pubDate>
       
-      <guid>http://localhost:1313/categories/csharp/</guid>
+      <guid>http://localhost:1313/gitjit/tech-blog/categories/csharp/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/categories/programming/</link>
+      <link>http://localhost:1313/gitjit/tech-blog/categories/programming/</link>
       <pubDate>Tue, 03 Sep 2024 16:59:31 -0700</pubDate>
       
-      <guid>http://localhost:1313/categories/programming/</guid>
+      <guid>http://localhost:1313/gitjit/tech-blog/categories/programming/</guid>
       
       <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Javascript</title>
-      <link>http://localhost:1313/categories/javascript/</link>
+      <link>http://localhost:1313/gitjit/tech-blog/categories/javascript/</link>
       <pubDate>Tue, 03 Sep 2024 16:59:25 -0700</pubDate>
       
-      <guid>http://localhost:1313/categories/javascript/</guid>
+      <guid>http://localhost:1313/gitjit/tech-blog/categories/javascript/</guid>
       
       <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>http://localhost:1313/categories/c&#43;&#43;/</link>
+      <link>http://localhost:1313/gitjit/tech-blog/categories/c&#43;&#43;/</link>
       <pubDate>Tue, 03 Sep 2024 16:59:18 -0700</pubDate>
       
-      <guid>http://localhost:1313/categories/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/gitjit/tech-blog/categories/c&#43;&#43;/</guid>
       
       <description></description>
       

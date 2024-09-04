@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/programming/</link>
+    <link>http://localhost:1313/gitjit/tech-blog/categories/programming/</link>
     <description>Recent content in Programming on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 16:59:31 -0700</lastBuildDate><atom:link href="http://localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Sep 2024 16:59:31 -0700</lastBuildDate><atom:link href="http://localhost:1313/gitjit/tech-blog/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Three</title>
-      <link>http://localhost:1313/posts/three/</link>
+      <link>http://localhost:1313/gitjit/tech-blog/posts/three/</link>
       <pubDate>Tue, 03 Sep 2024 16:59:31 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/three/</guid>
+      <guid>http://localhost:1313/gitjit/tech-blog/posts/three/</guid>
       
       <description>&lt;h2 id=&#34;third-post&#34;&gt;Third Post&lt;/h2&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Two</title>
-      <link>http://localhost:1313/posts/two/</link>
+      <link>http://localhost:1313/gitjit/tech-blog/posts/two/</link>
       <pubDate>Tue, 03 Sep 2024 16:59:25 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/two/</guid>
+      <guid>http://localhost:1313/gitjit/tech-blog/posts/two/</guid>
       
       <description>&lt;h2 id=&#34;second-post&#34;&gt;Second Post&lt;/h2&gt;</description>
       
@@ -31,14 +31,14 @@
     
     <item>
       <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>http://localhost:1313/gitjit/tech-blog/posts/first/</link>
       <pubDate>Tue, 03 Sep 2024 16:59:18 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>http://localhost:1313/gitjit/tech-blog/posts/first/</guid>
       
       <description>&lt;h2 id=&#34;first-post&#34;&gt;First Post&lt;/h2&gt;
 &lt;p&gt;As React applications grow, managing state across multiple components can become complex and difficult to maintain. This is where Redux comes in, providing a predictable state management solution that helps developers maintain consistency across their applications. In this post, we’ll explore Redux, specifically using Redux Toolkit, to make our state management simpler and more efficient.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; src=&#34;http://localhost:1313/images/image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; src=&#34;http://localhost:1313/gitjit/tech-blog/images/image.png&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kr&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;createSlice&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;@reduxjs/toolkit&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kr&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;counterSlice&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;createSlice&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;({&lt;/span&gt;
