@@ -7,3 +7,4 @@ tags = ["Hugo", "Tutorial"]
 
 ## Third Post
 
+![alt text](/images/image2.png)
