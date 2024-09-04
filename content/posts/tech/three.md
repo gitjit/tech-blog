@@ -10,4 +10,4 @@ tags = ["Hugo", "Tutorial"]
 <!-- ![alt text](/images/image2.png) -->
 
 <!-- <img alt="alt text" src="{{ "/images/image2.png" | relURL }}"> -->
-<img alt="alt text" src="/tech-blog/images/image2.png">
+<img alt="alt text" src="/images/image2.png">

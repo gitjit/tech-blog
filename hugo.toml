@@ -1,4 +1,4 @@
-baseURL = "https://jithesh.io/tech-blog/"
+baseURL = "https://jithesh.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "My New Hugo Site"
