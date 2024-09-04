@@ -1,4 +1,4 @@
-baseURL = "https://github.com/gitjit/tech-blog/"
+baseURL = "https://jithesh.io/tech-blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "My New Hugo Site"
