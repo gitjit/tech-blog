@@ -8,6 +8,9 @@ theme = "hugo-blog-awesome"
 #   category = "categories"
 #   tag = "tags"
 
+[permalinks]
+  post = "/posts/:slug/"
+
 [markup]
   [markup.highlight]
     noClasses = false
