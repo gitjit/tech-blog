@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CSharp on My New Hugo Site</title><link>https://jithesh.io/categories/csharp/</link><description>Recent content in CSharp on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 16:59:31 -0700</lastBuildDate><atom:link href="https://jithesh.io/categories/csharp/index.xml" rel="self" type="application/rss+xml"/><item><title>Three</title><link>https://jithesh.io/posts/tech/three/</link><pubDate>Tue, 03 Sep 2024 16:59:31 -0700</pubDate><guid>https://jithesh.io/posts/tech/three/</guid><description>&lt;h2 id="third-post">Third Post&lt;/h2>
+&lt;!-- ![alt text](/images/image2.png) -->
+&lt;!-- &lt;img alt="alt text" src="{{ "/images/image2.png" | relURL }}"> -->
+&lt;img alt="alt text" src="https://jithesh.io/images/image2.png"></description></item></channel></rss>
